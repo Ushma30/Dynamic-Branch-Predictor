@@ -3,5 +3,5 @@ As opposed to traditional Branch Prediction techniques, when machine learning te
 
 The Perceptron Branch predictor is compared to existing branch prediction techniques like Gshare, Two-level, Hybrid (Perceptron + Gshare) branch predictors against numerous benchmarks.
 
-<Prediction accuracy comparison>
-![GitHub Logo](/images/logo.png)
+<Prediction accuracy for different benchmarks>
+(/images/Prediction Accuracy Perceptron.jpeg)
