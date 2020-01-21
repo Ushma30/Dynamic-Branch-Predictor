@@ -3,8 +3,5 @@ As opposed to traditional Branch Prediction techniques, when machine learning te
 
 The Perceptron Branch predictor is compared to existing branch prediction techniques like Gshare, Two-level, Hybrid (Perceptron + Gshare) branch predictors against numerous benchmarks.
 
-<Prediction accuracy for different benchmarks>
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-  
-  
-  #(./images/Prediction Accuracy Perceptron.png)
+Prediction accuracy for different benchmarks
+![Image of Yaktocat](/images/Prediction Accuracy Perceptron.png)
