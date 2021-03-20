@@ -13,4 +13,4 @@ The Perceptron Branch predictor is compared to existing branch prediction techni
 ![img3](images/Different%20benchmarks.png)
   
 ## Prediction Accuracy of all branch predictors
-![img3](images/Prediction_Accuracy_All_Predictors.png)
+![img3](images/Prediction_Accuracy_All_Predictors.PNG)
